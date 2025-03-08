@@ -1,12 +1,139 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\projects\\GodownGoApis\\LearnProject\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A46003A-0B9E-4331-BABC-1D5308880CC5}|LearnProject\\LearnProject.csproj|c:\\projects\\godowngoapis\\learnproject\\learnproject\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6A46003A-0B9E-4331-BABC-1D5308880CC5}|LearnProject\\LearnProject.csproj|solutionrelative:learnproject\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A46003A-0B9E-4331-BABC-1D5308880CC5}|LearnProject\\LearnProject.csproj|c:\\projects\\godowngoapis\\learnproject\\learnproject\\learnproject.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{6A46003A-0B9E-4331-BABC-1D5308880CC5}|LearnProject\\LearnProject.csproj|solutionrelative:learnproject\\learnproject.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A46003A-0B9E-4331-BABC-1D5308880CC5}|LearnProject\\LearnProject.csproj|c:\\projects\\godowngoapis\\learnproject\\learnproject\\controllers\\godowncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A46003A-0B9E-4331-BABC-1D5308880CC5}|LearnProject\\LearnProject.csproj|solutionrelative:learnproject\\controllers\\godowncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A46003A-0B9E-4331-BABC-1D5308880CC5}|LearnProject\\LearnProject.csproj|c:\\projects\\godowngoapis\\learnproject\\learnproject\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A46003A-0B9E-4331-BABC-1D5308880CC5}|LearnProject\\LearnProject.csproj|solutionrelative:learnproject\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57DF24CD-5409-4A07-80F7-0A6D6D3D32F5}|DataAccessLayer\\DataAccessLayer.csproj|c:\\projects\\godowngoapis\\learnproject\\dataaccesslayer\\interfaces\\godownrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57DF24CD-5409-4A07-80F7-0A6D6D3D32F5}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\interfaces\\godownrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57DF24CD-5409-4A07-80F7-0A6D6D3D32F5}|DataAccessLayer\\DataAccessLayer.csproj|c:\\projects\\godowngoapis\\learnproject\\dataaccesslayer\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57DF24CD-5409-4A07-80F7-0A6D6D3D32F5}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57DF24CD-5409-4A07-80F7-0A6D6D3D32F5}|DataAccessLayer\\DataAccessLayer.csproj|c:\\projects\\godowngoapis\\learnproject\\dataaccesslayer\\entities\\godown.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57DF24CD-5409-4A07-80F7-0A6D6D3D32F5}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\entities\\godown.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\projects\\GodownGoApis\\LearnProject\\LearnProject\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "LearnProject\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\projects\\GodownGoApis\\LearnProject\\LearnProject\\Properties\\launchSettings.json",
+              "RelativeToolTip": "LearnProject\\Properties\\launchSettings.json",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-08T11:25:26.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GoDownController.cs",
+              "DocumentMoniker": "C:\\projects\\GodownGoApis\\LearnProject\\LearnProject\\Controllers\\GoDownController.cs",
+              "RelativeDocumentMoniker": "LearnProject\\Controllers\\GoDownController.cs",
+              "ToolTip": "C:\\projects\\GodownGoApis\\LearnProject\\LearnProject\\Controllers\\GoDownController.cs",
+              "RelativeToolTip": "LearnProject\\Controllers\\GoDownController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBEAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T11:04:15.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\projects\\GodownGoApis\\LearnProject\\LearnProject\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "LearnProject\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\projects\\GodownGoApis\\LearnProject\\LearnProject\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "LearnProject\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T11:23:25.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LearnProject.http",
+              "DocumentMoniker": "C:\\projects\\GodownGoApis\\LearnProject\\LearnProject\\LearnProject.http",
+              "RelativeDocumentMoniker": "LearnProject\\LearnProject.http",
+              "ToolTip": "C:\\projects\\GodownGoApis\\LearnProject\\LearnProject\\LearnProject.http",
+              "RelativeToolTip": "LearnProject\\LearnProject.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-03-08T11:23:15.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GoDownRepository.cs",
+              "DocumentMoniker": "C:\\projects\\GodownGoApis\\LearnProject\\DataAccessLayer\\Interfaces\\GoDownRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Interfaces\\GoDownRepository.cs",
+              "ToolTip": "C:\\projects\\GodownGoApis\\LearnProject\\DataAccessLayer\\Interfaces\\GoDownRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\Interfaces\\GoDownRepository.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAwBoAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T11:03:44.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\projects\\GodownGoApis\\LearnProject\\DataAccessLayer\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Entities\\Product.cs",
+              "ToolTip": "C:\\projects\\GodownGoApis\\LearnProject\\DataAccessLayer\\Entities\\Product.cs",
+              "RelativeToolTip": "DataAccessLayer\\Entities\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T11:03:40.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GoDown.cs",
+              "DocumentMoniker": "C:\\projects\\GodownGoApis\\LearnProject\\DataAccessLayer\\Entities\\GoDown.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Entities\\GoDown.cs",
+              "ToolTip": "C:\\projects\\GodownGoApis\\LearnProject\\DataAccessLayer\\Entities\\GoDown.cs",
+              "RelativeToolTip": "DataAccessLayer\\Entities\\GoDown.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T11:03:38.591Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
