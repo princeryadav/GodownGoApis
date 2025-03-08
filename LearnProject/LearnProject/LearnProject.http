@@ -1,6 +1,6 @@
 @LearnProject_HostAddress = http://localhost:5264
 
-GET {{LearnProject_HostAddress}}/weatherforecast/
+GET {{LearnProject_HostAddress}}/GoDown/
 Accept: application/json
 
 ###
